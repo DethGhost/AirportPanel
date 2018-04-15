@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Tools.ConsoleTools;
 
 namespace AirportPanel
 {
@@ -10,6 +6,7 @@ namespace AirportPanel
     {
         static void Main(string[] args)
         {
+            ConsoleDispatcher db = new ConsoleDispatcher();
         }
     }
 }
