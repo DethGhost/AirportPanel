@@ -1,0 +1,6 @@
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\bin\Debug\Controllers.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\bin\Debug\Controllers.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\obj\Debug\Controllers.csprojResolveAssemblyReference.cache
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\obj\Debug\Controllers.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\obj\Debug\Controllers.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Controllers\obj\Debug\Controllers.pdb

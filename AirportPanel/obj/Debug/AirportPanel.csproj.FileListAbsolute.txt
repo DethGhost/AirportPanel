@@ -1,0 +1,10 @@
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\AirportPanel.exe
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\AirportPanel.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\Tools.dll
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\Tools.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\Tools.dll.config
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\obj\Debug\AirportPanel.csprojResolveAssemblyReference.cache
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\obj\Debug\AirportPanel.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\obj\Debug\AirportPanel.exe
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\obj\Debug\AirportPanel.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\AirportPanel\bin\Debug\MySql.Data.dll

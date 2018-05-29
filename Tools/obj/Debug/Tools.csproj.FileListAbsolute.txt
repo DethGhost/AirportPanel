@@ -1,0 +1,13 @@
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\Tools.dll.config
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\Tools.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\Tools.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\EntityFramework.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\EntityFramework.xml
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\obj\Debug\Tools.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\obj\Debug\Tools.pdb
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\MySql.Data.dll
+C:\Users\eugen\RiderProjects\AirportPanel\Tools\bin\Debug\MySQLConnection.dll
